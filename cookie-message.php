@@ -3,7 +3,7 @@
  * Plugin Name: Cookie Message
  * Plugin URI: http://www.wp-load.com
  * Description: Add a cookie message to your website.
- * Version: 1.0
+ * Version: 1.1
  * Author: Jenst
  * Author URI: http://www.jenst.se
  * License: GPL2
