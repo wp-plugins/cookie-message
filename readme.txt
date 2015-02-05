@@ -3,7 +3,7 @@ Contributors: Jenst
 Tags: cookie,cookies,message,notice
 Requires at least: 4.1
 Tested up to: 4.1
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -43,5 +43,6 @@ In wp-admin set the "Logged in" to "Enable" and reload the site. It will then de
 4. Advanced settings
 
 == Changelog ==
-1.1 - Fixed CSS-bug
-1.0 - Initial release
+1. 1.2 - Fixed CSS issue with z-index
+2. 1.1 - Fixed CSS-bug
+3. 1.0 - Initial release
